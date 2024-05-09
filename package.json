@@ -16,5 +16,8 @@
     "mongoose": "^8.3.2",
     "nodemon": "^3.1.0",
     "react-browser-router": "^2.1.2"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
   }
 }
